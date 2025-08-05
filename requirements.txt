@@ -1,0 +1,15 @@
+#Python 3.11.9
+
+ipython #==8.5.0
+jupyter #==1.0.0
+nbimporter #==0.3.4
+pandas #==1.3.5
+spacy #==3.2.4
+beautifulsoup4 #>=4.9.3
+pytest #==7.1.3
+ipykernel
+nltk
+scikit-learn
+requests
+wordcloud
+seaborn
