@@ -1,7 +1,12 @@
 #!/bin/bash
 
 # Create Virtual Environment
-python -m venv .venv
+if [ -d ".venv" ]; then
+    echo ".venv already exists"
+else
+    python -m venv .venv
+    echo "Virtual environment created in .venv"
+fi
 
 # Activate the virtual environment
 source .venv/bin/activate
