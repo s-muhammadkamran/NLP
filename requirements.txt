@@ -19,3 +19,4 @@ kagglehub
 textblob
 gensim
 wget
+emoji
