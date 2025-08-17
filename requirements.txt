@@ -14,3 +14,5 @@ requests
 wordcloud
 seaborn
 tensorflow
+kagglehub
+textblob
