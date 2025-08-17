@@ -13,6 +13,9 @@ scikit-learn
 requests
 wordcloud
 seaborn
+plotly
 tensorflow
 kagglehub
 textblob
+gensim
+wget
