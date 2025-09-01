@@ -20,3 +20,4 @@ textblob
 gensim
 wget
 emoji
+pydot
